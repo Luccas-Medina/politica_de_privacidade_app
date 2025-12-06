@@ -1,6 +1,6 @@
-Política de Privacidade – Aplicativo "Mensagens de /Ano Novo"
+Política de Privacidade – Aplicativo "Frases de Tudo"
 
-O aplicativo Mensagens de Ano Novo respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
+O aplicativo Frases de Tudo respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
 
 1. Coleta de Informações
 O aplicativo não coleta dados pessoais sensíveis, como nome, endereço ou informações financeiras.
