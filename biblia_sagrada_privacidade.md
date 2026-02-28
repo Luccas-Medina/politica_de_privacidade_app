@@ -1,6 +1,6 @@
 🇧🇷 Política de Privacidade – Aplicativo "Bíblia Sagrada"
 
-O aplicativo Bíblia Sagrada respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
+O aplicativo Bíblia Sagrada, desenvolvido por Luccas Medina (Next World Apps), respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
 
 1. Coleta de Informações
 
@@ -34,7 +34,7 @@ Se tiver dúvidas sobre esta Política de Privacidade, entre em contato pelo e-m
 
 🇺🇸 Privacy Policy – "Holy Bible" App
 
-The Holy Bible app respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we handle any information that may be collected when you use our app.
+The Holy Bible app, developed by Luccas Medina (Next World Apps), respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we handle any information that may be collected when you use our app.
 
 1. Information Collection
 
@@ -68,7 +68,7 @@ If you have any questions about this Privacy Policy, contact us at: gianluccas54
 
 🇪🇸 Política de Privacidad – Aplicación "Santa Biblia"
 
-La aplicación Santa Biblia respeta su privacidad y se compromete a proteger sus datos personales. Esta Política de Privacidad explica cómo tratamos la información que pueda recopilarse cuando usted utiliza nuestra aplicación.
+La aplicación Santa Biblia, desarrollada por Luccas Medina (Next World Apps), respeta su privacidad y se compromete a proteger sus datos personales. Esta Política de Privacidad explica cómo tratamos la información que pueda recopilarse cuando usted utiliza nuestra aplicación.
 
 1. Recopilación de Información
 

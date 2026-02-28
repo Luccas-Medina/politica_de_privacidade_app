@@ -1,6 +1,6 @@
 🇧🇷 Política de Privacidade – Aplicativo "Versos Bíblicos"
 
-O aplicativo Versos Bíblicos respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
+O aplicativo Versos Bíblicos, desenvolvido por Luccas Medina (Next World Apps), respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
 
 1. Coleta de Informações
 

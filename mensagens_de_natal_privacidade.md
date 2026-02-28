@@ -1,6 +1,6 @@
 Política de Privacidade – Aplicativo "Mensagens de Natal"
 
-O aplicativo Mensagens de Natal respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
+O aplicativo Mensagens de Natal, desenvolvido por Luccas Medina (Next World Apps), respeita a sua privacidade e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como tratamos as informações que possam ser coletadas quando você utiliza o nosso aplicativo.
 
 1. Coleta de Informações
 O aplicativo não coleta dados pessoais sensíveis, como nome, endereço ou informações financeiras.
